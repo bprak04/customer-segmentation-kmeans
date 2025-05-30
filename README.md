@@ -31,6 +31,4 @@ This project applies KMeans clustering to segment customers from a bank marketin
 - **Cluster 1**: Younger customers, moderate income – good upsell candidates
 - **Cluster 2**: Older, high balance – loyalty program prospects
 
-## 📤 Export
 
-- Clustered data exported as `bank_customers_segmented.csv` for Tableau/BI tools
